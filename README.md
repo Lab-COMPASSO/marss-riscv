@@ -56,7 +56,7 @@ $ sudo apt-get install libcurl4-openssl-dev
 First, clone the simulator repository:
 
 ```console
-$ git clone https://github.com/bucaps/marss-riscv
+$ git clone https://github.com/Lab-COMPASSO/marss-riscv.git
 ```
 Then, `cd` into the simulator source directory:
 
